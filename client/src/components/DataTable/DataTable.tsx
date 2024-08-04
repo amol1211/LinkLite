@@ -98,7 +98,7 @@ const DataTable: React.FunctionComponent<IDataTableProps> = (props) => {
   };
 
   return (
-    <div className="container mx-auto pt-2 pb-10">
+    <div className="container mx-auto pt-2 pb-10 px-2">
       <div className="relative overflow-x-auto shadow-sm sm:rounded-lg">
         <table className="w-full table-fixed text-sm text-left rtl:text-right text-gray-500">
           <thead className="text-md uppercase text-gray-50 bg-gray-700">

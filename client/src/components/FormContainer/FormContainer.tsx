@@ -26,13 +26,13 @@ const FormContainer: React.FunctionComponent<IFormContainerProps> = (props) => {
     <div className="container mx-auto p-2">
       <div className="bg-banner my-8 rounded-xl bg-cover bg-center">
         <div className="w-full h-full rounded-xl p-20 backdrop-brightness-50">
-          <h2 className="text-white text-4xl text-center pb-4">LinkLite</h2>
+          <h2 className="text-white text-3xl text-center pb-4">LinkLite</h2>
           <p className="text-white text-center pb-2 text-xl font-extralight">
             Paste your lenthy URL to shorten it
           </p>
           <p className="text-white text-center pb-4 text-sm font-thin">
-            Free tool to compress a URL or trim a link. Use our URL shortener to
-            create a sleek, concise link, enhancing usability.
+            Free tool to compress or trim a URL. Use our URL shortener to create
+            a sleek, concise link, enhancing usability.
           </p>
           <form onSubmit={handleSubmit}>
             <div className="flex">
