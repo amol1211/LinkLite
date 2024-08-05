@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        banner: "url('./public/llbg.jpg')",
+        banner: "url('../client/public/llbg.jpg')",
       },
     },
   },
