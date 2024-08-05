@@ -4,7 +4,7 @@
 
 Welcome to **LinkLite**! LinkLite a powerful and user-friendly URL shortener application designed to simplify and manage your URLs. Built with a modern tech stack, it offers robust functionality for creating, managing, and tracking shortened URLs. The application features a clean and responsive interface, ensuring a seamless user experience across devices.
 
-## [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)]() 🚀
+## [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://linklite-5kh2.onrender.com)
 
 ## Screenshots 📸
 
